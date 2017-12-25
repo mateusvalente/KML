@@ -34,7 +34,7 @@
         <color>ff3644db</color>
         <scale>1</scale>
         <Icon>
-          <href>https://imagepng.org/wp-content/uploads/2017/08/WhatsApp-icone.png</href>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -47,7 +47,7 @@
         <color>ff25a8f9</color>
         <scale>1</scale>
         <Icon>
-          <href>https://imagepng.org/wp-content/uploads/2017/08/WhatsApp-icone.png</href>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
