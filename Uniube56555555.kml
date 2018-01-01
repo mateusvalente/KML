@@ -8,9 +8,9 @@
         <color>ff42b37c</color>
         <scale>1</scale>
         <Icon>
-          <href>http://piq.codeus.net/static/media/userpics/piq_328214.png</href>
+          <href>http://dmv.vermont.gov/sites/all/modules/socialmedia/icons/arbent/clean/32x32/twitter.png</href>
         </Icon>
-        <hotSpot x="64" xunits="pixels" y="64" yunits="pixels"/>
+        <hotSpot x="32" xunits="pixels" y="32" yunits="pixels"/>
       </IconStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
