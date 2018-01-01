@@ -11,6 +11,7 @@
           <href>https://cdn4.iconfinder.com/data/icons/32x32-free-design-icons/32/Move.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+        <text> TEXTO AQUI </text>
       </IconStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
