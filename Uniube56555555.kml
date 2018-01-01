@@ -8,9 +8,9 @@
         <color>ff42b37c</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>http://piq.codeus.net/static/media/userpics/piq_328214.png</href>
         </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+        <hotSpot x="64" xunits="pixels" y="64" yunits="pixels"/>
       </IconStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
