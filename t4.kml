@@ -3,167 +3,42 @@
   <Document>
     <name>Uniube</name>
     <description><![CDATA[Mapa da Universidade de Uberaba<br>]]></description>
-    <Style id="icon-1899-1A237E-labelson-nodesc">
-      <IconStyle>
-        <color>ff7e231a</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://cdn4.iconfinder.com/data/icons/32x32-free-design-icons/32/Move.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-        <text> TEXTO AQUI </text>
-      </IconStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1899-DB4436-labelson-nodesc">
-      <IconStyle>
-        <color>ff3644db</color>
-        <scale>2</scale>
-        <Icon>
-          <href>https://querodobra.com.br/wp-content/uploads/2016/05/icone-facebook-64x64-colorido.png</href>
-        </Icon>
-        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
-      </IconStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="poly-1A237E-1200-76-nodesc-normal">
-      <LineStyle>
-        <color>ff7e231a</color>
-        <width>1.2</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4c7e231a</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="poly-1A237E-1200-76-nodesc-highlight">
-      <LineStyle>
-        <color>ff7e231a</color>
-        <width>1.8</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4c7e231a</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="poly-1A237E-1200-76-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-1A237E-1200-76-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-1A237E-1200-76-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-3949AB-1200-76-nodesc-normal">
-      <LineStyle>
-        <color>ffab4939</color>
-        <width>1.2</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4cab4939</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="poly-3949AB-1200-76-nodesc-highlight">
-      <LineStyle>
-        <color>ffab4939</color>
-        <width>1.8</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4cab4939</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="poly-3949AB-1200-76-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-3949AB-1200-76-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-3949AB-1200-76-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-673AB7-1200-76-nodesc-normal">
-      <LineStyle>
-        <color>ffb73a67</color>
-        <width>1.2</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4cb73a67</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="poly-673AB7-1200-76-nodesc-highlight">
-      <LineStyle>
-        <color>ffb73a67</color>
-        <width>1.8</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4cb73a67</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="poly-673AB7-1200-76-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-673AB7-1200-76-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-673AB7-1200-76-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Folder>
       <name>Blocos</name>
       <Placemark>
         <name>Bloco S</name>
-        <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <tessellate>1</tessellate>
-              <coordinates>
+        <Style>
+            <IconStyle>
+                <scale>2</scale>
+                <Icon>
+                  <href>https://raw.githubusercontent.com/mateusvalente/KML/master/letra_s.png</href>
+                </Icon>
+                <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+            </IconStyle>
+        </Style>
+        <MultiGeometry>
+            <Point>
+                <coordinates>-19.76007, -47.9636</coordinates>
+            </Point>
+            <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
                 -47.9640073,-19.7602895,0
                 -47.9637685,-19.7604662,0
                 -47.9632589,-19.7598604,0
                 -47.963495,-19.7596812,0
                 -47.9640073,-19.7602895,0
-              </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </MultiGeometry>
+    </Placemark>    
+        
+    
+     
       <Placemark>
         <name>Bloco Z</name>
         <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
@@ -738,3 +613,4 @@
     </Folder>
   </Document>
 </kml>
+
