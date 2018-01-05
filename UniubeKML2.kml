@@ -46,9 +46,7 @@
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
+    
     </Style>
     <Style id="poly-3949AB-1200-76-nodesc-highlight">
       <LineStyle>
@@ -60,9 +58,7 @@
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
+     
     </Style>
     <StyleMap id="poly-3949AB-1200-76-nodesc">
       <Pair>
