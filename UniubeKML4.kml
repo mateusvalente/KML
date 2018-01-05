@@ -81,6 +81,9 @@
     <Placemark>
       <name>Bloco S</name>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -99,6 +102,9 @@
     <Placemark>
       <name>Bloco Z</name>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -125,6 +131,9 @@
     <Placemark>
       <name>Bloco M</name>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -142,6 +151,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco Y</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -168,6 +180,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco X</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -188,6 +203,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco U</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -206,6 +224,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco V</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -224,6 +245,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco W</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -247,6 +271,9 @@
         <outerBoundaryIs>
           <LinearRing>
             <tessellate>1</tessellate>
+            <BalloonStyle>
+              <displayMode>hide</displayMode>     <!-- default or hide -->
+          </BalloonStyle>
             <coordinates>
               -47.9630001,-19.7569574,0
               -47.9632737,-19.7572856,0
@@ -268,6 +295,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco H</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-3949AB-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -286,6 +316,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco C</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -304,6 +337,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco G</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -322,6 +358,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco E</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -340,6 +379,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco F</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -358,6 +400,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco A</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -394,6 +439,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco O</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -428,6 +476,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco J</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -446,6 +497,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco L</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -464,6 +518,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco K</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -482,6 +539,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco P</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -500,6 +560,9 @@
     </Placemark>
     <Placemark>
       <name>`Bloco N</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -518,6 +581,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco Q</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -536,6 +602,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco T</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -558,6 +627,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco B</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
@@ -591,6 +663,9 @@
     <Placemark>
       <name>Bloco D</name>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -612,6 +687,9 @@
     </Placemark>
     <Placemark>
       <name>Bloco R</name>
+      <BalloonStyle>
+        <displayMode>hide</displayMode>     <!-- default or hide -->
+    </BalloonStyle>
       <styleUrl>#poly-1A237E-1200-76-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
